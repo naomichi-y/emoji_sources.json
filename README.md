@@ -10,7 +10,7 @@ Converted to JSON data from EmojiSources.txt.
 
 Usage
 -----
-	php emoji_sources_to_json.php
+    php emoji_sources_to_json.php
 
 Generate a EmojiSources.json file.
 
